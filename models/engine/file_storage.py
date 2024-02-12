@@ -7,6 +7,7 @@ from models.state import State
 from models.city import City
 from models.review import Review
 from models.amenity import Amenity
+from models.place import Place
 
 class FileStorage:
     __file_path = "file.json"
